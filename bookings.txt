@@ -1,0 +1,2 @@
+email pnr busno from to passengername passengerage
+alice@gmail.com 17818090 545 Delhi Chandigarh Alice 34

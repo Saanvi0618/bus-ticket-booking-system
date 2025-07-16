@@ -1,0 +1,7 @@
+number name from to departure arrival totalseats bookedseats 
+6709 HRTC Chandigarh Delhi 21.00 02.40 50 10
+545 HRTC Delhi Chandigarh 19.32 00.15 50 33
+37891 PRTC Delhi Chandigarh 05:15 09.15 72 50
+7689 PRTC Delhi Chandigarh 10:30 14.15 72 71
+306245 HRTC Chandigarh Manali 4.40 13.30 65 33
+736 HRTC Manali Chandigarh 17.00 01.00 70 45

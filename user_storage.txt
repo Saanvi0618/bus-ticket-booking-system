@@ -1,0 +1,4 @@
+username email password
+priya ria@gmail.com abcdef
+awesomesam sam@yahoo.com qwerty
+alice alice@gmail.com qrstuv
